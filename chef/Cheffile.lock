@@ -1,0 +1,10 @@
+SITE
+  remote: http://community.opscode.com/api/v1
+  specs:
+    ntp (1.3.2)
+    timezone (0.0.1)
+
+DEPENDENCIES
+  ntp (>= 0)
+  timezone (= 0.0.1)
+

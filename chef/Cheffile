@@ -1,0 +1,4 @@
+site "http://community.opscode.com/api/v1"
+
+cookbook "ntp"
+cookbook "timezone", "0.0.1"
